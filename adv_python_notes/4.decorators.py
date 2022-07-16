@@ -1,4 +1,4 @@
-# Decorators are used to extend the behaviour of the function without explicitly changing
+# Decorators are used to extend the behaviour of the function without explicitly changing it
 
 def start_end_wrapper(func):
    def wrapper():
