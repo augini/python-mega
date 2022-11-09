@@ -22,7 +22,7 @@ first, *rest = unpack_list
 ## Lists
 
 - We can create a list with a certain length of same elements
-  `list = [0] \* 10`
+  `list = [0] * 10`
 
 - To slice the list with steps
   `step_list = cool_list[::4]`
@@ -71,7 +71,7 @@ _tuple = 12, "string", "tuple", False
 print(type(_tuple)) # <class 'tuple'>
 ```
 
-- If we have only one element inside `()`, it will not considered a tuple data type
+- If we have only one element inside `()`, it will not be considered a tuple data type
 
 ```python
 _tuple = (12)

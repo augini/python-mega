@@ -9,7 +9,7 @@
 # Great for CPU-bound processing
 # New process is stated independently from other processes
 # Processes are interruptable / killable
-# One GIL for each process -> avoids GIL limitation 
+# One GIL for each process -> avoids GIL limitation
 
 
 # Disadvantages
