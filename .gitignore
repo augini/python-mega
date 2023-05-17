@@ -1,3 +1,5 @@
 venv
 url_shortener/__pycache__
 *__pycache__
+.prod.env
+.env
