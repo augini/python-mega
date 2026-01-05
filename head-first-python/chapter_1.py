@@ -1,6 +1,6 @@
 import random
 import this
-
+import antigravity
 
 suits = ["Clubs", "Spades", "Hearts", "Diamonds"]
 
@@ -22,10 +22,13 @@ while len(deck) < 5:
     hand = draw()
     deck.add(draw())
 
-print(deck)
+# print(deck)
 
-print(dir(deck))
-print(help(deck.add))
+# print(dir(deck))
+
+# print(help(deck.add))
+
+print(antigravity)
 
 #  Who does what
 
