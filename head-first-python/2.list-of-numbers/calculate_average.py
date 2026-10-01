@@ -1,7 +1,6 @@
 import os
 
-FN = "Darius-13-100m-Fly.txt"
-FOLDER = "swimdata/"
+FOLDER = "../swimdata/"
 
 
 # input: 1:27.95 - minut:second:one hundredth of a second
